@@ -12,7 +12,8 @@ _Github workshop using git bash &amp; other tools..._
 
 * Install Git bash (if not already installed)
   * Download URL: https://git-scm.com/downloads
-  * Answer all the questions during the installation process. Regarding the `line-ending` settings, select `Checkout as-is, commit as-is`
+  * Answer all the questions during the installation process.
+  * ⚠️ Regarding the `line-ending` settings, select `Checkout as-is, commit as-is` ⚠️
 
 ## Step 3
 
