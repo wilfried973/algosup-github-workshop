@@ -34,6 +34,7 @@ _let's the fun begin._ For this workshop we will use the Lua version of the HARF
 * Git commit
   * A comment is mandatory
 * Git push
+* Go to your online repository on github.com and check the updated page
 
 ## Step 5
 
@@ -41,6 +42,7 @@ _let's the fun begin._ For this workshop we will use the Lua version of the HARF
 * Deploy the binaries of Lua into a new directory of your local repository. A `bin/` directory should be fine
 * Copy the `resources` directory from the tutorials into your local repository
 * Git add theses new folders and files. Commit, comment, push.
+* Go to your online repository on github.com and check the updated page
 
 ## Step 6
 
@@ -50,4 +52,26 @@ _let's the fun begin._ For this workshop we will use the Lua version of the HARF
 * Create a new .bat file to run the `game_mouse_flight.lua` script (something like `lua.exe game_mouse_flight.lua`)
 * Test the .bat file, the Lua program should run and open a window
 * Git add, commit, comment, push
+* Go to your online repository on github.com and check the updated page
+
+## Step 7
+
+_Now let's use the branch feature!_
+
+* Improve this readme
+  * Add a description of the mini game
+  * Add a screenshot of the mini game
+  * Git add, **don't commit yet!**
+  * Create a branch, call it `readme-update`
+  * Git commit, push
+  * Go to your online repository on github.com and check the new branch
+
+## Step 8
+
+* Go to your online repository on github.com and check the updated page
+* Let's merge
+
+## Step 9
+
+* Let's prepare a release :)
 
