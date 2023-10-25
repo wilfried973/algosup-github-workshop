@@ -61,7 +61,7 @@ _Now let's use the branch feature!_
 
 ### Understanding Commits and Branching in Git
 
-When you create a commit in Git, the process works as follows:
+> When you create a commit in Git, the process works as follows:
 
 1. You're on branch `A`.
 2. You make changes, add them to the staging area with `git add`, then create a commit with `git commit`.
