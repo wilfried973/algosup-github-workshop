@@ -6,6 +6,7 @@ _Github workshop using git bash &amp; other tools..._
 
 * Log on Github
 * Fork this repository
+![how to fork ? click on the fork button](img/img-fork.jpg)
 
 ## Step 2
 
