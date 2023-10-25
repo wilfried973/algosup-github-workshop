@@ -59,6 +59,20 @@ _let's the fun begin._ For this workshop we will use the Lua version of the HARF
 
 _Now let's use the branch feature!_
 
+### Understanding Commits and Branching in Git
+
+When you create a commit in Git, the process works as follows:
+
+1. You're on branch `A`.
+2. You make changes, add them to the staging area with `git add`, then create a commit with `git commit`.
+3. This commit is now recorded on branch `A`.
+4. If you now switch to another branch, let's call it `B`, using `git checkout B` (or `git switch B` in newer versions), this commit remains on branch `A`. The branch `B` isn't aware of this commit unless you merge or move it in some manner.
+5. Not doing a `git push` yet doesn't affect how commits are associated with branches locally.
+
+If you want the commit to be present on branch `B`, you'd have to merge branch `A` into branch `B` or use other methods like cherry-picking to specifically move that commit from one branch to another.
+
+### Now that you've got a good understanding of what a branch is, let's start!
+
 * Improve this readme
   * Add a description of the mini game
   * Add a screenshot of the mini game
